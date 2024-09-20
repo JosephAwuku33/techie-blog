@@ -10,6 +10,7 @@ Completion of an invited assessment to slightly techie, I'm supposed to make a b
 - Typescript
 - Tailwind CSS
 - Vite
+- Redux Toolkit (For a small project like this I won't advise)
 - Vitest/Jest for testing
 
 
