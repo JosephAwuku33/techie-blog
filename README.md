@@ -1,7 +1,7 @@
 
 # Slightly Techie Blog
 
-Completion of an invited assessment to slightly techie, I'm supposed to make a blog with CRUD capabilities, let's see how it goes.
+I'm supposed to make a blog with CRUD capabilities, let's see how it goes.
 
 
 ## Tech Stack
